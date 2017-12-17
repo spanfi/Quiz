@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <string name="welcome">Welcome to quiz about Poland</string>
+
+    <string name="text_question1">Where is Poland?</string>
+    <string name="answer1_1">In central Europe</string>
+    <string name="answer1_2">In western Europe</string>
+    <string name="answer1_3">In Asia</string>
+
+    <string name="text_question2">Does Poland have access to the sea?</string>
+    <string name="answer2_1">Yes</string>
+    <string name="answer2_2">No</string>
+
+    <string name="text_question3">Are mountains in Poland?</string>
+    <string name="answer3_1">Yes</string>
+    <string name="answer3_2">No</string>
+
+    <string name="text_question4">The best known Polish football player (currently)</string>
+    <string name="answer4_1">Łukasz Podolski</string>
+    <string name="answer4_2">Robert Lewandowski</string>
+    <string name="answer4_3">Arkadiusz Milik</string>
+
+    <string name="text_question5">Who was Fryderyk Chopin</string>
+    <string name="answer5_1">Pianist</string>
+    <string name="answer5_2">Violinist</string>
+    <string name="answer5_3">Flutist</string>
+
+    <string name="text_question6">What Maria Skłodowska Curie discovered?</string>
+    <string name="answer6_1">Oxygen and hydrogen</string>
+    <string name="answer6_2">Polon and rad</string>
+    <string name="answer6_3">X rays</string>
+
+    <string name="text_question7">Who was Karol Wojtyła?</string>
+    <string name="answer7_1">Pianist</string>
+    <string name="answer7_2">Well-known vocalist</string>
+    <string name="answer7_3">Pope (John Paul II)</string>
+
+    <string name="text_question8">Who was Nicolaus Copernicus</string>
+    <string name="answer8_1">An astronomer, mathematician and doctor</string>
+    <string name="answer8_2">Musician, composer</string>
+    <string name="answer8_3">An IT specialist known by the programist</string>
+
+
+    <string name="submit">Submit</string>
+
+
+</resources>
