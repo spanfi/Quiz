@@ -1,48 +1,127 @@
 <resources>
-    <string name="app_name">Quiz</string>
+    <string name="app_name">QUIZ</string>
 
-    <string name="welcome">Welcome to quiz about Poland</string>
+    <string name="welcomeTitle">Welcome to quiz about Poland</string>
+    <string name="welcomeMessage">This is a test of knowledge about Poland. Here you will find questions from the category of geography and famous Poles.</string>
+
+    <string name="error">No answer selected.</string>
+    <string name="errorMessage">Please select the answer</string>
+
 
     <string name="text_question1">Where is Poland?</string>
-    <string name="answer1_1">In central Europe</string>
-    <string name="answer1_2">In western Europe</string>
-    <string name="answer1_3">In Asia</string>
+    <string name="answer1_1">In Africa</string>
+    <string name="answer1_2">In Asia</string>
+    <string name="answer1_3">In Europe</string>
 
     <string name="text_question2">Does Poland have access to the sea?</string>
     <string name="answer2_1">Yes</string>
     <string name="answer2_2">No</string>
 
-    <string name="text_question3">Are mountains in Poland?</string>
-    <string name="answer3_1">Yes</string>
-    <string name="answer3_2">No</string>
+    <string name="text_question3">How many lakes are there in Poland?</string>
+    <string name="answer3_1">One thousand and fifty-eight</string>
+    <string name="answer3_2">Almost ten thousand</string>
+    <string name="answer3_3">Less than one thousand</string>
 
-    <string name="text_question4">The best known Polish football player (currently)</string>
-    <string name="answer4_1">Łukasz Podolski</string>
-    <string name="answer4_2">Robert Lewandowski</string>
-    <string name="answer4_3">Arkadiusz Milik</string>
+    <string name="text_question4">Are mountains in Poland?</string>
+    <string name="answer4_1">Yes</string>
+    <string name="answer4_2">No</string>
 
-    <string name="text_question5">Who was Fryderyk Chopin</string>
-    <string name="answer5_1">Pianist</string>
-    <string name="answer5_2">Violinist</string>
-    <string name="answer5_3">Flutist</string>
+    <string name="text_question5">The best known Polish football player (currently)</string>
+    <string name="answer5_1">Łukasz Podolski</string>
+    <string name="answer5_2">Robert Lewandowski</string>
+    <string name="answer5_3">Arkadiusz Milik</string>
 
-    <string name="text_question6">What Maria Skłodowska Curie discovered?</string>
-    <string name="answer6_1">Oxygen and hydrogen</string>
-    <string name="answer6_2">Polon and rad</string>
-    <string name="answer6_3">X rays</string>
+    <string name="text_question6">Who was Fryderyk Chopin</string>
+    <string name="answer6_1">Flutist</string>
+    <string name="answer6_2">Violinist</string>
+    <string name="answer6_3">Pianist</string>
 
-    <string name="text_question7">Who was Karol Wojtyła?</string>
-    <string name="answer7_1">Pianist</string>
-    <string name="answer7_2">Well-known vocalist</string>
-    <string name="answer7_3">Pope (John Paul II)</string>
+    <string name="text_question7">What Maria Sklodowska-Curie discovered?</string>
+    <string name="answer7_1">Oxygen and hydrogen</string>
+    <string name="answer7_2">Polon and rad</string>
+    <string name="answer7_3">X rays</string>
 
-    <string name="text_question8">Who was Nicolaus Copernicus</string>
-    <string name="answer8_1">An astronomer, mathematician and doctor</string>
-    <string name="answer8_2">Musician, composer</string>
-    <string name="answer8_3">An IT specialist known by the programist</string>
+    <string name="text_question8">Who was Karol Wojtyla?</string>
+    <string name="answer8_1">Pianist</string>
+    <string name="answer8_2">Well-known vocalist</string>
+    <string name="answer8_3">Pope (John Paul II)</string>
 
+    <string name="text_question9">Who was Nicolaus Copernicus</string>
+    <string name="answer9_1">An astronomer, mathematician and doctor</string>
+    <string name="answer9_2">Musician, composer</string>
+    <string name="answer9_3">An IT specialist known by the programist</string>
 
     <string name="submit">Submit</string>
+
+    <string name="description1">
+        <b>Poland</b> (Polish: Polska), officially the Republic of Poland (Polish: Rzeczpospolita Polska), is a sovereign country in Central Europe. \n \n
+        It is covering an area of 312,679 square kilometres  with a mostly temperate climate.\n \n
+        With a population of over 38.5 million people, Poland is the sixth most populous member state of the European Union.\n \n
+        Poland\'s capital and largest city is Warsaw. Other cities include Kraków, Łódź, Wrocław, Poznań and Gdańsk.
+    </string>
+
+    <string name="description2">
+        <b>The territory of Poland is located by the Baltic Sea</b>, which is located in the north of the country. The beaches are wide and sandy.
+    </string>
+
+    <string name="description3">
+        With almost ten thousand closed bodies of water covering more than 1 hectare (2.47 acres) each, <b>Poland has one of the highest numbers of lakes in the world</b>. In Europe,
+        only Finland has a greater density of lakes.
+    </string>
+
+    <string name="description4">
+        In the south of Poland there are mountains, which are taken by the <b>Sudetes and Carpathians</b>. The Tatra Mountains located along the southern Polish border
+        are the highest part of the Carpathians.\n \n
+        The highest mountain in Poland, Rysy at 2.503 m, is located in the High Tatras.
+    </string>
+
+    <string name="description5">
+        <b>Robert Lewandowski</b> (born 21 August 1988 in Warsaw, Poland) is a Polish association football striker who plays for Bayern Munich and the Poland national football team.\n \n
+    </string>
+
+    <string name="description6">
+        <b>Fryderyk Franciszek Chopin</b> was a Polish-French composer and virtuoso pianist. He is considered one of the greatest Romantic piano composers.\n \n
+        Chopin was born in Żelazowa Wola, a village in the Duchy of Warsaw.
+    </string>
+
+    <string name="description7">
+        <b>Marie Skłodowska–Curie</b> was a Polish and French physicist, chemist and feminist. She did research on radioactivity.
+        As a result of her research, she discovered polonium and radium.
+        She was the first person to win two Nobel Prizes.She received a Nobel Prize in physics for her research on uncontrolled radiation.\n \n
+    </string>
+
+    <string name="description8">
+        <b>Karol Józef Wojtyła, Pope John Paul II</b>was the 264th Pope of the Catholic Church from 16 October 1978 to his death in 2005.\n \n
+        He was the second longest-serving pope in history. As a Pole, he was the first non-Italian pope in 455 years.\n
+         He was the first ever pope to visit the White House and a mosque. \n
+         John Paul II was canonized by Pope Francis on April 27, 2014.
+    </string>
+
+    <string name="description9">
+        <b>Nicolaus Copernicus</b> was a mathematician and astronomer who formulated a model of the universe that placed the Sun rather than the
+        Earth at the center of the universe.\n \n
+        A polyglot and polymath, he obtained a doctorate in canon law and was also a mathematician, astronomer, physician, classics scholar, translator,
+        governor, diplomat, and economist. In 1517 he derived a quantity theory of money – a key concept in economics.
+    </string>
+
+    <string name="good">Your answer is good</string>
+    <string name="bad">Your answer is bad</string>
+
+    <string name="end">The end of the quiz</string>
+
+    <string name="text_range1">
+        \n \n I think your knowledge about Poland is not very good. I hope that the comments on the questions allowed you to deepen
+        your knowledge about Poland. It will be better next time.
+    </string>
+
+    <string name="text_range2">
+       \n \n Very good result. You have a lot of knowledge about Poland. A few questions made you difficult. I hope that the descriptions
+        provided have allowed you to deepen your knowledge about Poland.
+    </string>
+
+    <string name="text_range3">
+        \n \n Excellently. Your knowledge about Poland concerns both its history and current times. I think you could be a guide in my country.
+    </string>
 
 
 </resources>

@@ -7,10 +7,22 @@
     android:orientation="vertical"
     tools:context="com.example.android.quiz.MainActivity">
 
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="144dp"
+        android:src="@drawable/poland">
+
+    </ImageView>
+
     <TextView
         android:id="@+id/question"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        android:textSize="16dp" />
 
     <RadioGroup
         android:id="@+id/radioGroup"
@@ -38,11 +50,9 @@
 
     <Button
         android:id="@+id/buttonSubmit"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:onClick="submit"
-        android:padding="16dp"
+        android:layout_margin="16dp"
         android:text="@string/submit" />
-
 
 </LinearLayout>
